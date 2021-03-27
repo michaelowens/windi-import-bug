@@ -728,9 +728,9 @@ vue@^3.0.5:
     "@vue/shared" "3.0.8"
 
 windicss@^2.5.5:
-  version "2.5.6"
-  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.5.6.tgz#b36acf23a59cce0d25ed14b33344c687b6fd1fa3"
-  integrity sha512-Dd91kh5pRKrlFax1mshhD+8qhm/KBBTKCNpcGcVSAoiQL3KmMEiEkR8WBmpZr8T9Bx9DbdOSRBKOqvmTYgEOQQ==
+  version "2.5.7"
+  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.5.7.tgz#aea36568cfb412e1c673468496e920f21ef06086"
+  integrity sha512-gsWZkotmw9Hr7yZy2nJAp46pmgMO1wXFFa3rfLWm57KDM31U/AucksQnwZi7zxsKM9c6O/z/61/Uvv4J096zKA==
 
 wrappy@1:
   version "1.0.2"
